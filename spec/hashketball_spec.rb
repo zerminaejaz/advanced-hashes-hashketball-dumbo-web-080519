@@ -140,7 +140,7 @@ describe 'hashketball' do
         :steals => 1,
         :blocks => 1,
         :slam_dunks => 0
-       }
+      }
     }
 
     let(:kemba_stats) {
